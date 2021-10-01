@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="UberPOO_PLATZI:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/UberPOO_PLATZI_jar</output-path>
-    <root id="archive" name="UberPOO_PLATZI.jar">
-      <element id="module-output" name="UberPOO_PLATZI" />
-    </root>
-  </artifact>
-</component>
