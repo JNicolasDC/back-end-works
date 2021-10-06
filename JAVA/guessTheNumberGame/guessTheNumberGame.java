@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AdivinaElNumero {
+public class guessTheNumberGame {
 
     private Scanner entrada = new Scanner(System.in);
     private boolean juegoActivo = true;
