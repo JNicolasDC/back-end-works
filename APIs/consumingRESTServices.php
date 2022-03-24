@@ -1,13 +1,3 @@
-/* Codigo en PHP */
-
-
-
-
-
-
-
-
-
 /* Codigo en Python *//*
 from urllib.request import urlopen
 import json
